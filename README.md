@@ -1,0 +1,3 @@
+The site is simple -- mainly using HTML and CSS. I didn't want to just download some fancy template and change the text and some colors. Instead I wanted to build every element just as I envisioned it.
+
+You may also notice that my approach to the portfolio page is not solely focused on the full stack development. As a marketer, I am combinging both disciplines and taking a broader, more general approach centered around continued education. With that in mind - and since I am not seeking a job as a developer - I am also not making some of the suggested updates to external platforms. Those will remain focused on my current career path in marketing.

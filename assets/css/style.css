@@ -1,0 +1,192 @@
+body {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
+  line-height: 34px;
+  color: #777777;
+  background: url('../images/sebastian-staines-1405935-unsplash.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.navbar {
+  background-image: linear-gradient(to right, #232F40, #949BA6);
+}
+
+.navbar-brand {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 40px !important;
+}
+.nav-link{
+  color: white;
+  font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
+}
+
+#about-me {
+  color: white;
+  text-align: center;
+  background:#232F40;
+  margin-bottom: 6em;
+  margin-top: 6em;
+  padding: 5em;
+}
+
+#latest-work{
+  background-color: white;
+  /* padding-top: 5em;
+  padding-bottom: 5em; */
+  text-align: center;
+}
+
+#projects {
+  background-color: white;
+  /* padding-top: 5em; */
+  /* padding-bottom: 2em; */
+}
+
+#projects2 {
+  background-color: white;
+  /* padding-top: 5em; */
+  /* padding-bottom: 2em; */
+}
+
+#projects3 {
+  background-color: white;
+  /* padding-top: 5em; */
+  /* padding-bottom: 2em; */
+}
+
+
+.card {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  text-align: center;
+  border: none !important;
+}
+
+h1 {
+  padding: 1em;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.latest {
+  color: #232F40 !important;
+}
+
+h5 {
+  color: #042138;
+
+}
+
+p {
+  color:white;
+  font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.card p {
+  color: #343a40;
+  margin-bottom: 2rem !important;
+  font-size: 15px;
+  padding: 1em;
+}
+
+.text-center p {
+  color: #343a40;
+}
+
+.button.inset {
+  text-decoration: none;
+  color: #fff;
+  background-color: #364559;
+  letter-spacing: 2px;
+  padding: 10px 25px 10px 25px;
+  border: 5px solid rgb(179, 190, 192);
+  border: 5px solid #364559;
+  transition: 0.2s;
+}
+
+.button.wrap {
+  text-decoration: none;
+  color: #364559;
+  background-color: #fff;
+  letter-spacing: 2px;
+  padding: 10px 25px 10px 25px;
+  border: 5px solid #fff;
+  border: 5px solid #fff;
+  transition: 0.2s;
+}
+
+
+.button.inset:hover {
+  box-shadow: inset 0px 0px 0px 2px #fff;
+}
+
+.button.wrap:hover {
+  box-shadow: inset 0px 0px 0px 2px #2496B0
+}
+
+form {
+  background-color:#364559;
+  margin-top: 6em;
+  margin-bottom: 6em;
+  padding: 2em;
+  text-align: center;
+  color: white;
+}
+
+.form-email {
+  margin-bottom: 2em;
+  margin-top: 1em;
+}
+
+.form-control {
+  text-align: center;
+  background-color: #364559 !important;
+  border: 2px solid white !important;
+}
+
+#lab_social_icon_footer {
+  padding: 40px 0;
+  background-color: white;
+}
+
+#lab_social_icon_footer a {
+  color: #333;
+}
+
+#lab_social_icon_footer .social:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+#lab_social_icon_footer .social {
+  -webkit-transform: scale(0.8);
+  /* Browser Variations: */
+  
+  -moz-transform: scale(0.8);
+  -o-transform: scale(0.8);
+  -webkit-transition-duration: 0.5s;
+  -moz-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+}
+/*
+    Multicoloured Hover Variations
+*/
+
+#lab_social_icon_footer #social-gh:hover {
+  color:black;
+}
+
+#lab_social_icon_footer #social-tw:hover {
+  color: #4099FF;
+}
+
+#lab_social_icon_footer #social-li:hover {
+  color: #0077b5;
+}
+
+
